@@ -737,7 +737,7 @@ export const MEMBERS: readonly Member[] = [
     email: 'pranas@microsoft.com',
     firstName: 'Pranav',
     lastName: 'Senthilnathan',
-    memberOf: [ROLE_IDS.CSHARP_SDK],
+    memberOf: [ROLE_IDS.CSHARP_SDK, ROLE_IDS.CSHARP_SDK_ADMIN],
   },
   {
     github: 'pree-dew',
@@ -850,7 +850,7 @@ export const MEMBERS: readonly Member[] = [
     github: 'tarekgh',
     firstName: 'Tarek',
     lastName: 'Mahmoud Sayed',
-    memberOf: [ROLE_IDS.CSHARP_SDK],
+    memberOf: [ROLE_IDS.CSHARP_SDK, ROLE_IDS.CSHARP_SDK_ADMIN],
   },
   {
     github: 'tiginamaria',
